@@ -1,2 +1,2 @@
 # buyingbot
-a buying bot for tabao
+a buying bot for Taobao
