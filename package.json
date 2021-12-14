@@ -1,0 +1,24 @@
+{
+  "name": "buyingbot",
+  "version": "1.0.0",
+  "description": "a buying bot for Taobao",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JimmyZiqiangCheng/buyingbot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JimmyZiqiangCheng/buyingbot/issues"
+  },
+  "homepage": "https://github.com/JimmyZiqiangCheng/buyingbot#readme",
+  "dependencies": {
+    "chrome-paths": "^1.0.1",
+    "puppeteer": "^13.0.0"
+  }
+}
